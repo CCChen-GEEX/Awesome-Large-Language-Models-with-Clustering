@@ -94,6 +94,5 @@ If you would like to help contribute this list, please feel free to contact me o
 
 ```
 markdown
-- Paper Name. *Conference Year*.
-  - Author List. [[pdf]](link) [[code]](link)
+- Paper Name. *Conference Year*. [[pdf]](link) [[code]](link)
 ```
