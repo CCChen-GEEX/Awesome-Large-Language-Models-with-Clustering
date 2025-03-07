@@ -47,7 +47,7 @@
 - Exploring Narrative Clustering in Large Language Models: A Layerwise Analysis of BERT. *Arxiv 2025*. [[pdf]](https://arxiv.org/pdf/2501.08053?)
 - Beyond words: a comparative analysis of LLM embeddings for effective clustering. *IDA 2024*. [[pdf]](https://hal.science/hal-04488175v1/file/ida2024_LLM_paper.pdf)
 - CafeLLM: Context-Aware Fine-Grained Semantic Clustering Using Large Language Models. *IJCAI Workshop 2024*. [[pdf]](https://click.endnote.com/viewer?doi=10.1007/978-981-97-6125-8_6&route=7)
-- Joint unsupervised contrastive learning and robust GMM for text clustering. *Information Processing and Management 2024*. [[pdf]](https://www.sciencedirect.com/science/article/abs/pii/S0306457323002662) [[code]](https://github.com/nickhcx/JourTC)
+- Joint unsupervised contrastive learning and robust GMM for text clustering. *IPM 2024*. [[pdf]](https://www.sciencedirect.com/science/article/abs/pii/S0306457323002662) [[code]](https://github.com/nickhcx/JourTC)
 - LLMEdgeRefine: Enhancing Text Clustering with LLM-Based Boundary Point Refinement. *EMNLP 2024*. [[pdf]](https://aclanthology.org/2024.emnlp-main.1025.pdf)
 - Soft Language Clustering for Multilingual Model Pre-training. *ACL 2023*. [[pdf]](https://aclanthology.org/2023.acl-long.388.pdf) [[code]](https://github.com/lemon0830/XLMP)
 - Goal-Driven Explainable Clustering via Language Descriptions. *EMNLP 2023*. [[pdf]](https://aclanthology.org/2023.emnlp-main.657.pdf) [[code]](https://github.com/ZihanWangKi/GoalEx)
