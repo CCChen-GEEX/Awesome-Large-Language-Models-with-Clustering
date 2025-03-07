@@ -141,8 +141,7 @@
 
 If you would like to help contribute this list, please feel free to contact me or add [pull request](https://github.com/CCChen-GEEX/Awesome-Large-Language-Models-and-Clustering/pulls) with the following Markdown format:
 
-```
-markdown
+```markdown
 - Paper Name. *Conference Year*.
   - Author List. [[pdf]](link) [[code]](link)
 ```
