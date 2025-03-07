@@ -49,6 +49,8 @@
   - S. Zhao, L. Zhu, X. Wang, Y. Yang. [[pdf]](https://arxiv.org/pdf/2205.00823) [[code]](https://github.com/mzhaoshuai/CenterCLIP)
 
 #### Text Clustering
+- Exploring Narrative Clustering in Large Language Models: A Layerwise Analysis of BERT. *Arxiv 2025*.
+  - A. Banerjee, A. Schilling, P. Krauss. [[pdf]](https://arxiv.org/pdf/2501.08053?)
 - Text Clustering as Classification with LLMs. *Arxiv 2024*.
   - C. Huang, G. He. [[pdf]](https://arxiv.org/pdf/2410.00927) [[code]](https://github.com/ECNU-Text-Computing/Text-Clustering-via-LLM)
 - TeC: A Novel Method for Text Clustering with Large Language Models Guidance and Weakly-Supervised Contrastive Learning. *ICWSM 2024*.
@@ -61,8 +63,6 @@
   - S. Tipirneni, R. Adkathimar, N. Choudhary, G. Hiranandani, R.A. Amjad, V.N. Ioannidis, C. Yuan, C.K. Reddy. [[pdf]](https://arxiv.org/pdf/2405.00988) [[code]](https://github.com/amazon-science/context-aware-llm-clustering)
 - Large Language Model Enhanced Clustering for News Event Detection. *Arxiv 2024*.
   - A.N. Tarekegn. [[pdf]](https://arxiv.org/pdf/2406.10552)
-- Exploring Narrative Clustering in Large Language Models: A Layerwise Analysis of BERT. *Arxiv 2025*.
-  - A. Banerjee, A. Schilling, P. Krauss. [[pdf]](https://arxiv.org/pdf/2501.08053?)
 - Beyond words: a comparative analysis of LLM embeddings for effective clustering. *IDA 2024*.
   - I. Keraghel, S. Morbieu, M. Nadif. [[pdf]](https://hal.science/hal-04488175v1/file/ida2024_LLM_paper.pdf)
 - CafeLLM: Context-Aware Fine-Grained Semantic Clustering Using Large Language Models. *IJCAI Workshop 2024*.
