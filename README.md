@@ -65,7 +65,7 @@
 
 ## Clustering for LLMs
 #### Vision-Language Models
-- Learning Clustering-based Prototypes for Compositional Zero-shot Learning. *ICLR2025*. [[pdf]](https://arxiv.org/pdf/2502.06501) [[code]](https://github.com/quhongyu/ClusPro)
+- Learning Clustering-based Prototypes for Compositional Zero-shot Learning. *ICLR 2025*. [[pdf]](https://arxiv.org/pdf/2502.06501) [[code]](https://github.com/quhongyu/ClusPro)
 - Boosting Vision-Language Models with Transduction. *NeurIPS 2024*. [[pdf]](https://proceedings.neurips.cc/paper_files/paper/2024/file/71d7dbe2652bd4662d29fa269f059db4-Paper-Conference.pdf) [[code]](https://github.com/MaxZanella/transduction-for-vlms)
 - MoDE: CLIP Data Experts via Clustering. *CVPR 2024*. [[pdf]](http://openaccess.thecvf.com/content/CVPR2024/papers/Ma_MoDE_CLIP_Data_Experts_via_Clustering_CVPR_2024_paper.pdf) [[code]](https://github.com/facebookresearch/MetaCLIP/tree/main/mode)
 - Chat-UniVi: Unified Visual Representation Empowers Large Language Models with Image and Video Understanding. *CVPR 2024*. [[pdf]](https://openaccess.thecvf.com/content/CVPR2024/papers/Jin_Chat-UniVi_Unified_Visual_Representation_Empowers_Large_Language_Models_with_Image_CVPR_2024_paper.pdf) [[code]](https://github.com/PKU-YuanGroup/Chat-UniVi)
