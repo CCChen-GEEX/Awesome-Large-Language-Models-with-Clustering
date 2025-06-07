@@ -36,6 +36,7 @@
 - Integrating Vision-Language Semantic Graphs in Multi-View Clustering. *IJCAI 2024*. [[pdf]](https://www.ijcai.org/proceedings/2024/0472.pdf)
 - Semantic-Enhanced Image Clustering. *AAAI 2023*. [[pdf]](https://ojs.aaai.org/index.php/AAAI/article/download/25841/25613)
 - CenterCLIP: Token Clustering for Efficient Text-Video Retrieval. *SIGIR 2022*. [[pdf]](https://arxiv.org/pdf/2205.00823) [[code]](https://github.com/mzhaoshuai/CenterCLIP)
+- -----------------------------
 - Agent-Centric Personalized Multiple Clustering with Multi-Modal LLMs. *arxiv 2025*. [[pdf]](https://arxiv.org/pdf/2503.22241?)
 
 #### Text Clustering
