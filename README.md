@@ -24,6 +24,7 @@
 
 #### Image Clustering
 
+- Agent-Centric Personalized Multiple Clustering with Multi-Modal LLMs. *Arxiv 2025*. [[pdf]](https://arxiv.org/pdf/2503.22241?)
 - Image Clustering with External Guidance.  *ICML 2024*. [[pdf]](https://arxiv.org/pdf/2310.11989) [[code]](https://github.com/XLearning-SCU/2024-ICML-TAC)
 - Image Clustering Conditioned on Text Criteria. *ICLR 2024*. [[pdf]](https://arxiv.org/pdf/2310.18297) [[code]](https://github.com/sehyunkwon/ICTC)
 - Image Clustering via the Principle of Rate Reduction in the Age of Pretrained Models. *ICLR 2024*. [[pdf]](https://arxiv.org/pdf/2306.05272) [[code]](https://github.com/LeslieTrue/CPP) 
@@ -36,7 +37,6 @@
 - Integrating Vision-Language Semantic Graphs in Multi-View Clustering. *IJCAI 2024*. [[pdf]](https://www.ijcai.org/proceedings/2024/0472.pdf)
 - Semantic-Enhanced Image Clustering. *AAAI 2023*. [[pdf]](https://ojs.aaai.org/index.php/AAAI/article/download/25841/25613)
 - CenterCLIP: Token Clustering for Efficient Text-Video Retrieval. *SIGIR 2022*. [[pdf]](https://arxiv.org/pdf/2205.00823) [[code]](https://github.com/mzhaoshuai/CenterCLIP)
-- Agent-Centric Personalized Multiple Clustering with Multi-Modal LLMs. *arxiv 2025*. [[pdf]](https://arxiv.org/pdf/2503.22241?)
 
 #### Text Clustering
 - Text Clustering as Classification with LLMs. *Arxiv 2024*. [[pdf]](https://arxiv.org/pdf/2410.00927) [[code]](https://github.com/ECNU-Text-Computing/Text-Clustering-via-LLM)
