@@ -18,7 +18,8 @@
   - [Text Classification](#Text-Classification)
 
 ## Overview
-
+Clustering is indispensable in many fields where data is unlabeled, aiming to group similar data points into meaningful clusters. Recent studies have shown that using world knowledge in the Large Language Models (LLMs) can significantly improve the clustering performance. 
+The repository collects clustering methodologies and practices that extend beyond the specified data types, aiming to reveal the extensive potential of LLM across diverse application contexts
 
 ## LLMs for Clustering
 
