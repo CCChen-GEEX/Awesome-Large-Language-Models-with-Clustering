@@ -18,7 +18,7 @@
   - [Text Classification](#Text-Classification)
 
 ## Overview
-This repository is a comprehensive resource that examines both the application of clustering techniques to large language models (LLMs) and the use of LLMs in clustering tasks. It aggregates the latest research, methodologies, and tools in these areas, covering applications such as image, text, and graph clustering. Additionally, it highlights how clustering methods can improve LLM performance. 
+This repository is a comprehensive resource that examines both the use of LLMs in clustering tasks and the application of clustering techniques to large language models (LLMs). It aggregates the latest research, methodologies, and tools in these areas, covering applications such as image, text, and graph clustering. Additionally, it highlights how clustering methods can improve LLM performance. 
 
 ## LLMs for Clustering
 
